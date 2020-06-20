@@ -1,0 +1,6 @@
+
+
+cd C:\Users\dindu\Desktop\amazon_project
+
+
+python people_coun.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/example_01.mp4 --output output/sample_01.avi
